@@ -326,10 +326,17 @@
     }
     .first-section {
         padding: 8em 0 6em !important;
+        background-image:url(../images/imagen13.jpg);
+        background-attachment:initial;
+        background-size: cover;
+        
+        
     }
     .first-section h2 {
         font-size: 32px;
     }
+    
+    
 }
 
 @media (max-width: 600px) {

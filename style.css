@@ -395,6 +395,7 @@ li.social-links a {
     padding: 120px 0;
     position: relative;
     width: 100%;
+    
 }
 .parallax.parallax-off {
     background-attachment: scroll !important;
@@ -2027,4 +2028,6 @@ body.app_version .app_iphone_01 img {
       .whatsapp-icon {
         margin-top:13px;
       }
-      <style
+      .first-section{
+        background-image: url(images/imagen13.jpg);
+      }
